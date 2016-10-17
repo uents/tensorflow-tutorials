@@ -1,0 +1,6 @@
+## jupyter notebook
+.ipynb_checkpoints/
+__pycache__/
+
+## local data
+MNIST_data/
